@@ -2,19 +2,17 @@
 
 # Lua Nardi Quito
 
-**Statistics & Data Science · Data Analytics · Machine Learning · Automation**
+**Data Science · Data Analytics · Machine Learning · Automation**
 
-Statistics and Data Science graduate from the **University of São Paulo (USP)**, interested in building reliable data workflows, useful analytical products, and practical AI-driven solutions.
+Statistics and Data Science graduate from the University of São Paulo (USP), interested in building reliable data workflows, useful analytical products, and practical AI-driven solutions.
 
 </div>
 
 ## About me
 
-I have hands-on experience in **data analysis, statistical modeling, data validation, reporting, and dashboard development**, with a background that combines quantitative methods, programming, and applied research.
+I have hands-on experience in data analysis, statistical modeling, data validation, reporting, and dashboard development, with a background that combines quantitative methods, programming, and applied research.
 
-My work and academic projects have involved cleaning and transforming real-world datasets, exploratory analysis, predictive modeling, communicating results to different audiences, and improving data workflows through automation and standardization. I have also worked with **AI training and evaluation**, including structured data annotation and evaluation workflows.
-
-I'm particularly interested in **data analytics, automation, data engineering, machine learning, and applied AI**, and I enjoy projects where technical work has a clear practical use.
+My work and academic projects have involved cleaning and transforming real-world datasets, exploratory analysis, predictive modeling, communicating results to different audiences, and improving data workflows through automation and standardization. I have also worked with AI training and evaluation, including structured data annotation and evaluation workflows.
 
 ## Tech stack
 
